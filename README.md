@@ -1,0 +1,2 @@
+# gpgpusim_rodinia
+rodinia
